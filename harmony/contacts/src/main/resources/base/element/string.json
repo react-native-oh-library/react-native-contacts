@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "reason1",
+      "value": "读联系人"
+    },
+    {
+      "name": "reason2",
+      "value": "写联系人"
+    }
+  ]
+}

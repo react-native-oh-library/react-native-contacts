@@ -1,0 +1,33 @@
+{
+  "module": {
+    "name": "contacts",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ],
+    "requestPermissions":[
+      {
+        "name" : "ohos.permission.READ_CONTACTS",
+        "reason": "$string:reason1",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when":"inuse"
+        }
+      },
+      {
+        "name" : "ohos.permission.WRITE_CONTACTS",
+        "reason": "$string:reason2",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when":"always"
+        }
+      }
+    ]
+  }
+}
