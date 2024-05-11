@@ -4,8 +4,8 @@
     "type": "git",
     "url": "https://github.com/react-native-oh-library/react-native-contacts.git"
   },
-  "version": "7.0.7-0.1.0",
-  "description": "React Native Contacts (android & ios)",
+  "version": "7.0.7-0.0.1",
+  "description": "React Native Contacts",
   "nativePackage": true,
   "keywords": [
     "react-native",
