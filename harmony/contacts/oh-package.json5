@@ -1,6 +1,6 @@
 {
-  "name": "contacts",
-  "version": "1.0.0",
+  "name": "@react-native-oh-tpl/react-native-contacts",
+  "version": "7.0.7-0.0.1",
   "description": "Please describe the basic information.",
   "main": "Index.ets",
   "author": "",
