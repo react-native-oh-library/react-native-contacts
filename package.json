@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/react-native-oh-library/react-native-contacts.git"
   },
-  "version": "7.0.7-0.0.1",
+  "version": "7.0.7-0.0.2",
   "description": "React Native Contacts",
   "nativePackage": true,
   "keywords": [
@@ -20,7 +20,7 @@
     "alias": "react-native-contacts",
     "codegenConfig": {
         "specPaths": [
-          "./"
+          "./src"
         ]
       }
  },
@@ -28,8 +28,8 @@
     "url": "https://github.com/rt2zz/react-native-contacts/issues"
   },
   "homepage": "https://github.com/rt2zz/react-native-contacts",
-  "main": "NativeContacts.ts",
-  "types": "NativeContacts.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
