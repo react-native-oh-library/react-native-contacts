@@ -72,7 +72,7 @@ export interface Spec extends TurboModule {
      getCount(): Promise<number>;
      getPhotoForId(contactId: string): Promise<string>;
      addContact(contact: Contact): Promise<Contact>;
-     openContactForm(contact: Contact): Promise<Contact>;
+     openContactForm(contact: Contact): Promise<Contact | null>;
      openExistingContact(contact: Contact): Promise<Contact>;
      viewExistingContact(contact: Contact): Promise<Contact | void>
      editExistingContact(contact: Contact): Promise<Contact>;
