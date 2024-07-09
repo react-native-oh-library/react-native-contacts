@@ -1,5 +1,5 @@
-import { TurboModule, TurboModuleContext } from 'rnoh/ts';
-import { TM } from "rnoh/generated/ts"
+import { TurboModule, TurboModuleContext } from '@rnoh/react-native-openharmony/ts';
+import { TM } from "@rnoh/react-native-openharmony/generated/ts"
 import contact from '@ohos.contact';
 import abilityAccessCtrl, { Context, PermissionRequestResult, Permissions } from '@ohos.abilityAccessCtrl';
 import { BusinessError } from '@ohos.base';
