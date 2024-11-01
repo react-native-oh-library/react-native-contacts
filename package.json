@@ -14,8 +14,6 @@
     "addressbook",
     "contacts",
 	"harmony",
-    "ios",
-    "android"
   ],
   "harmony": {
     "alias": "react-native-contacts",
@@ -26,9 +24,9 @@
       }
  },
   "bugs": {
-    "url": "https://github.com/rt2zz/react-native-contacts/issues"
+    "url": "https://github.com/react-native-oh-library/react-native-contacts.git"
   },
-  "homepage": "https://github.com/rt2zz/react-native-contacts",
+  "homepage": "https://github.com/react-native-oh-library/react-native-contacts.git",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -48,7 +46,9 @@
     }
   ],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+	  "react-native-contacts": "7.0.7"
+  },
   "devDependencies": {
     "react-native-cli": "^2.0.1"
   },
