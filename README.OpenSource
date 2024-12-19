@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-contacts",
+        "License": "MIT License",
+        "License File": "https://github.com/morenoh149/react-native-contacts/blob/master/LICENSE",
+        "Version Number": "7.0.7",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/morenoh149/react-native-contacts",
+        "Description": "React Native Contacts"
+    }
+]
